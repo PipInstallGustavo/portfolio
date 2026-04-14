@@ -1,6 +1,3 @@
-# Gustavo C. Martins
-Data Science, Data Engineering & Data Analysis
-
 # Formação Acadêmica
 Ciência da Computação - Universidade Federal do Ceará (UFC) <br>
 (2023-2027)
