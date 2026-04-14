@@ -1,5 +1,5 @@
 title: Gustavo C. Martins
-logo: assets/gustavo_linkedin1.png
+logo: /assets/gustavo_linkedin1.png
 description: Data Science, Data Engineering & Data Analysis
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
